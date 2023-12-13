@@ -16,12 +16,12 @@ int main() {
                 printf("N");
         }
     else
-    {
-        if((c2 == 'Y' && a2 >= 37) && (c3 == 'Y' && a3 >= 37))
-            printf("E");
-        else    
-            printf("N");
-    }
+        {
+            if((c2 == 'Y' && a2 >= 37) && (c3 == 'Y' && a3 >= 37))
+                printf("E");
+            else    
+                printf("N");
+        }
     
     return 0;
 }
